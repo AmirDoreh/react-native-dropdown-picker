@@ -5,9 +5,10 @@ import React, {
 } from 'react';
 
 import {
-    Text,
-    TouchableOpacity
+    Text
 } from 'react-native';
+
+import { TouchableOpacity } from 'react-native-gesture-handler';
 
 import { LIST_MODE } from '../constants';
 
